@@ -1,9 +1,5 @@
 # Programming Labs
 
-[![Repo size](https://img.shields.io/github/repo-size/artuom2283/KPI-Labs?style=flat-square)](#)
-[![Languages count](https://img.shields.io/github/languages/count/artuom2283/KPI-Labs?style=flat-square)](#)
-[![Issues](https://img.shields.io/github/issues/artuom2283/KPI-Labs?style=flat-square)](#)
-
 **Лабораторні роботи з дисциплін, присвячених програмуванню.** <br>
 **Спеціальність**: 122 (Комп'ютерні науки). <br>
 **Освітня програма**: Цифрові технології в енергетиці. <br>
